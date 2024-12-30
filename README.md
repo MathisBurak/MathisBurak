@@ -1,3 +1,5 @@
+[![MasterHead](http://as1.ftcdn.net/v2/jpg/08/04/39/70/1000_F_804397082_DzLeWwaGzzj2KHkxRPmVPOLiVw3Jk7ev.jpg)
+
 <h1 align="center">Hi 👋, I'm Mathis Burak</h1>
 <h3 align="center">Strategic Finance Backed by Data-Driven Insights</h3>
 
