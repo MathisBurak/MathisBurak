@@ -1,4 +1,4 @@
-[![MasterHead](https://www.theanimationguys.com/wp-content/uploads/2019/08/fintech_banner_002_000_000.png)
+![MasterHead](https://www.theanimationguys.com/wp-content/uploads/2019/08/fintech_banner_002_000_000.png)
 <h1 align="center">Hi 👋, I'm Mathis Burak</h1>
 <h3 align="center">Strategic Finance Backed by Data-Driven Insights</h3>
 
