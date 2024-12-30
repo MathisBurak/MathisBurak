@@ -1,5 +1,7 @@
 ![MasterHead](https://github.com/MathisBurak/MathisBurak/blob/main/img/a.jpg)
-![](https://hit.yhype.me/github/profile?account_id=193278032)
+
+<img src="https://github.com/MathisBurak/MathisBurak/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+
 <h1 align="center">Hi 👋, I'm Mathis Burak</h1>
 <h3 align="center">Strategic Finance Backed by Data-Driven Insights</h3>
 
