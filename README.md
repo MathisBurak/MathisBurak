@@ -14,10 +14,12 @@
   
 </div>
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 I'm a **Financial Technology professional** specializing in data-driven financial solutions and strategic analysis. With a strong foundation in both finance and technology, I leverage advanced analytics and machine learning to transform complex financial data into actionable insights.
-
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
 <img src="https://github.com/MathisBurak/MathisBurak/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=250 height=250 align="right">
 
 ### 🎯 What I Do
@@ -38,8 +40,9 @@ I'm a **Financial Technology professional** specializing in data-driven financia
 - 📊 Advancing quantitative trading strategies
 </details>
 
-## 💬 Let's Connect!
 
+### 💬 Let's Connect!
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mathisburak%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mathisburak@gmail.com)
@@ -47,9 +50,10 @@ I'm a **Financial Technology professional** specializing in data-driven financia
 [![Twitter](https://img.shields.io/badge/Twitter-%40MathisBurak-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MathisBurak)
 
 </div>
-
-## 🛠️ Tech Stack
-
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
+### 🛠️ Tech Stack
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python)
@@ -61,9 +65,10 @@ I'm a **Financial Technology professional** specializing in data-driven financia
 ![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git)
 
 </div>
-
-## 📊 GitHub Stats
-
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
+### 📊 GitHub Stats
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathisBurak&theme=dark)](https://github.com/MathisBurak)
@@ -71,15 +76,17 @@ I'm a **Financial Technology professional** specializing in data-driven financia
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathisBurak&layout=compact&theme=dark)](https://github.com/MathisBurak)
 
 </div>
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## ☕ Support My Work
-
+### ☕ Support My Work
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
   
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/mathisburak)
 
 </div>
-
+ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathisBurak/MathisBurak/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathisBurak/MathisBurak/output/github-contribution-grid-snake.svg">
