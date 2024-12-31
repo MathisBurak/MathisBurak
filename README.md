@@ -10,7 +10,7 @@
 
 
 <h2 align="left">&nbsp; Hi 👋, I'm Mathis Burak </h2>
-<h3 align="center">Strategic Finance Backed by Data-Driven Insights</h3>
+<h3 align="left">&nbsp; Strategic Finance Backed by Data-Driven Insights</h3>
 
 
 - 💬 Ask me about **Fintech**
