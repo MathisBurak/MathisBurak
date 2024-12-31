@@ -8,8 +8,6 @@
 <img src="https://github.com/MathisBurak/MathisBurak/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 
-
-<h2 align="left">&nbsp; Hi 👋, I'm Mathis Burak </h2>
 <h3 align="left">&nbsp; Strategic Finance Backed by Data-Driven Insights</h3>
 
 
