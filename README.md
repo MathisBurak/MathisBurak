@@ -6,14 +6,6 @@
   </a>
 </div>
 
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/MathisBurak?style=social)](https://github.com/MathisBurak)
-  [![Medium](https://img.shields.io/badge/Medium-Follow%20%40mathisburak-black?style=flat&logo=medium)](https://medium.com/@mathisburak)
-  [![X](https://img.shields.io/badge/X-Follow%20%40MathisBurak-black?style=flat&logo=x)](https://twitter.com/MathisBurak)
-  
-</div>
-
 ### 👨‍💻 About Me
 
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -43,13 +35,12 @@ I'm a **Financial Technology professional** specializing in data-driven financia
 
 ### 💬 Let's Connect!
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<div align="center">
+<p align="left">
+    <a href="https://www.github.com/MathisBurak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+    <a href="https://www.medium.com/@mathisburak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a>
+    <a href="https://www.x.com/MathisBurak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-mathisburak%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mathisburak@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-%40mathisburak-black?style=for-the-badge&logo=medium)](https://medium.com/@mathisburak)
-[![Twitter](https://img.shields.io/badge/Twitter-%40MathisBurak-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MathisBurak)
-
-</div>
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 ### 🛠️ Tech Stack
