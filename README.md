@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/MathisBurak/MathisBurak/blob/main/img/a.jpg)
+![MasterHead](https://github.com/MathisBurak/MathisBurak/blob/main/img/black.png)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
