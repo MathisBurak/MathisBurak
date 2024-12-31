@@ -14,14 +14,13 @@
   
 </div>
 
-<img src="https://github.com/MathisBurak/MathisBurak/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=250 height=250 align="right">
-
 ## 👨‍💻 About Me
 
 I'm a **Financial Technology professional** specializing in data-driven financial solutions and strategic analysis. With a strong foundation in both finance and technology, I leverage advanced analytics and machine learning to transform complex financial data into actionable insights.
 
-<details>
-<summary>🎯 What I Do</summary>
+<img src="https://github.com/MathisBurak/MathisBurak/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=250 height=250 align="right">
+
+### 🎯 What I Do
 
 - 📊 Develop data-driven financial models and analytics solutions
 - 💡 Design and implement FinTech innovations
@@ -30,7 +29,6 @@ I'm a **Financial Technology professional** specializing in data-driven financia
 - 🔍 Perform quantitative market analysis
 - 🌐 Build scalable financial infrastructure
 - 📱 Develop FinTech applications
-</details>
 
 <details>
 <summary>🌱 Current Focus</summary>
