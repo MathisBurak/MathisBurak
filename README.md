@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/MathisBurak/MathisBurak/blob/main/img/a.jpg)
-
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Mathis+Burak;Follow+the+white+rabbit." alt="Typing SVG" /></a>
@@ -9,8 +8,7 @@
 
 
 
-
-<h1 align="center">Hi 👋, I'm Mathis Burak</h1>
+<h2 align="left">&nbsp; Hi 👋, I'm Mathis Burak </h2>
 <h3 align="center">Strategic Finance Backed by Data-Driven Insights</h3>
 
 - 📫 How to reach me **mathisburak@gmail.com**
